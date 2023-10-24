@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Welcome to your new dbt project!
 
 ### Using the starter project
@@ -17,3 +18,6 @@ Try running the following commands:
 =======
 
 >>>>>>> 1ffb0edf4d31816df80404bba608be70827811f1
+=======
+# DBT-AAT
+>>>>>>> f76018ed42043d0bef63a83d45b7fda1f0641d41
